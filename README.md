@@ -1,7 +1,7 @@
 # Contact-Read-Permission
 
 This application is for practice purpose.
-It asks for Contact Read Permission and displays names of the contacts.
+It asks for Contact Read Permission and displays names of the user`s contacts.
 
 ## Getting Started
 
