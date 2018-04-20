@@ -5,7 +5,7 @@ It asks for Contact Read Permission and displays names of the user`s contacts.
 
 ## Diagram for Content Provider and Content Resolver.
 
-![alt text](readmeContent/Content Provider and Resovler.jpg)
+![alt text](readmeContent/DiagramContentPR.jpg)
 
 ## Getting Started
 
